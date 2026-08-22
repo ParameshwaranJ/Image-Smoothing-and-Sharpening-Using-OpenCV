@@ -1,3 +1,5 @@
+# NAME: konduru santhosh
+# REG.No: 212225240074
 # Image-Smoothing-and-Sharpening-Using-OpenCV
 ## Aim
 
@@ -61,12 +63,6 @@ Convert image to grayscale and apply Laplacian Operator using `cv2.Laplacian()`.
 Display all filtered images using a grid layout for comparison.
 
 ---
-
-##  Developed By
-
-- **Name:** konduru santhosh 
-- **Register No:** 212225240074 
-
 ---
 ## program
 ~~~
