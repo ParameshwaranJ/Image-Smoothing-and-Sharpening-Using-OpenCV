@@ -1,5 +1,5 @@
-# NAME: konduru santhosh
-# REG.No: 212225240074
+# NAME: PARAMEHWARAN J
+# REG.No: 212225100032
 # Image-Smoothing-and-Sharpening-Using-OpenCV
 ## Aim
 
